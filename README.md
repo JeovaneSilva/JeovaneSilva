@@ -1,16 +1,20 @@
-### Hi there 👋
+## Opa! Eu sou o Jeovane Lima da Silva🫡🖥️
 
-<!--
-**JeovaneSilva/JeovaneSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeovanee.lima/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeovane-silva-936ba3292/)
 
-Here are some ideas to get you started:
+![jeovane GitHub stats](https://github-readme-stats.vercel.app/api?username=JeovaneSilva&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu mais utilizo
+
+<div style="display: inline_block"> <br/>
+    <img text_align="center" alt= "HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img text_align="center" alt= "CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img text_align="center" alt= "JacaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div> <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeovanelima&hide_progress=false) <br>
+
+
+Estudando para ser um desenvolvedor Front-end e/ou Back-end, ainda escolhendo...
+
