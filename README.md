@@ -1,5 +1,6 @@
 # Opa! Eu sou o Jeovane Lima da Silva🫡🖥️
 
+🚀 Apaixonado por tecnologia e programação, estou em constante aprendizado e buscando oportunidades para desenvolver minhas habilidades.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeovanee.lima/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeovane-silva-936ba3292/)
 
