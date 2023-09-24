@@ -1,4 +1,4 @@
-## Opa! Eu sou o Jeovane Lima da Silva🫡🖥️
+# Opa! Eu sou o Jeovane Lima da Silva🫡🖥️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeovanee.lima/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeovane-silva-936ba3292/)
@@ -13,8 +13,6 @@
     <img text_align="center" alt= "JacaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div> <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeovanelima&hide_progress=false) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeovaneSilva&hide_progress=false) <br>
 
-
-Estudando para ser um desenvolvedor Front-end e/ou Back-end, ainda escolhendo...
 
