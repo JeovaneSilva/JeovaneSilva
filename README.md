@@ -1,8 +1,10 @@
 # Opa! Eu sou o Jeovane Lima da Silva🫡🖥️
-👋 Tenho 17 anos e sou estudante do curso técnico em informática na Escola Profissional Edson Queiroz.
-🚀 Apaixonado por tecnologia e programação, estou em constante aprendizado e buscando oportunidades para desenvolver minhas habilidades.
-💻 Atualmente, estou explorando o mundo da programação e trabalhando em projetos para aprimorar meu conhecimento.
-🌐 Sou integrante da equipe ByteFlow.
+<div>
+<p>👋 Tenho 17 anos e sou estudante do curso técnico em informática na Escola Profissional Edson Queiroz.</p>
+<p>🚀 Apaixonado por tecnologia e programação, estou em constante aprendizado e buscando oportunidades para desenvolver minhas habilidades.</p>
+<P>💻 Atualmente, estou explorando o mundo da programação e trabalhando em projetos para aprimorar meu conhecimento.</P>
+<P>🌐 Sou integrante da equipe ByteFlow.</P>
+</div>
 
 #Redes Socias
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeovanee.lima/)
