@@ -1,18 +1,20 @@
-# Opa! Eu sou o Jeovane Lima da Silva🫡🖥️
-<div>
-<p>👋 Tenho 17 anos e sou estudante do curso técnico em informática na Escola Profissional Edson Queiroz. <br>
-🚀 Apaixonado por tecnologia e programação, estou em constante aprendizado e buscando oportunidades para desenvolver minhas habilidades.<br>
-💻 Atualmente, estou explorando o mundo da programação e trabalhando em projetos para aprimorar meu conhecimento.<br>
-🌐 Sou integrante da equipe ByteFlow.</P>
-</div>
+# 👨🏽‍💻​ Opa! Eu sou o Jeovane Lima da Silva
 
-#Redes Socias
+<p>👋 Tenho 17 anos e sou estudante do curso técnico em informática na Escola Profissional Edson Queiroz. <br>
+🚀 Apaixonado por tecnologia e programação, estou sempre aprendendo e buscando oportunidades para desenvolver minhas habilidades.<br>
+💻 Atualmente, estou explorando o mundo da programação e trabalhando em projetos para aprimorar meu conhecimento.<br>
+🌐 Sou integrante da equipe ByteFlow.</p>
+<br>
+
+# 📱​Minhas Redes Socias e Status Github
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeovanee.lima/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeovane-silva-936ba3292/)
 
 ![jeovane GitHub stats](https://github-readme-stats.vercel.app/api?username=JeovaneSilva&show_icons=true&theme=dracula)
-
-## Tecnologias que eu mais utilizo
+<br>
+<br>
+<br>
+# ⚖️​ Tecnologias que eu mais utilizo
 
 <div style="display: inline_block"> <br/>
     <img text_align="center" alt= "HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
