@@ -1,6 +1,6 @@
 # 👨🏽‍💻​ Opa! Eu sou o Jeovane Lima da Silva
 
-<p>👋 Tenho 17 anos e sou estudante do curso técnico de informática na Escola Profissional Edson Queiroz. <br>
+<p>👋 Tenho 18 anos e sou estudante do curso técnico de informática na Escola Profissional Edson Queiroz. <br>
 🚀 Apaixonado por tecnologia e programação, sempre aprendendo e buscando oportunidades para melhorar minhas habilidades.<br>
 💻 Atualmente, estou explorando o mundo da programação e trabalhando em projetos para aprimorar meu conhecimento.</p>
 <br>
